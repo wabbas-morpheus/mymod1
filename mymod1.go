@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/wabbas-morpheus/mymod1/mymod2"
+	mymod2 "github.com/wabbas-morpheus/mymod1/mymod2"
 )
 
 func main() {
